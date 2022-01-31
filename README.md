@@ -20,7 +20,7 @@ Self taught Musician / Developer / Graphic Designer / ex-Sponsored gamer / IT Te
 - 6+ Years in music production
 - All my life experience in IT
 
-## Languages
+## :robot: Languages
 - HTML (I know it's not a programming language, but I include it anyway)
 - CSS
 - PHP
