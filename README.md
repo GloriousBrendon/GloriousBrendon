@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @GloriousBrendon :sunglasses:
-Self taught Musician / Developer / Graphic Designer / ex-Sponsored gamer / IT Technician
+Self taught Musician / Developer / Graphic Designer / IT Technician
 
 ## 👀 I’m interested in
 - Music
@@ -13,11 +13,11 @@ Self taught Musician / Developer / Graphic Designer / ex-Sponsored gamer / IT Te
 - Python
 
 ## :space_invader: My experience
-- 6+ Years in Web Dev
-- 1+ Years in App/Software Dev
-- 6+ Years in Graphic Design
-- 6+ Years in Video Editing
-- 6+ Years in music production
+- 7+ Years in Web Dev
+- 2+ Years in App/Software Dev
+- 7+ Years in Graphic Design
+- 7+ Years in Video Editing
+- 7+ Years in music production
 - All my life experience in IT
 
 ## :robot: Languages
