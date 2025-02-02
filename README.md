@@ -8,16 +8,16 @@ Self taught Musician / Developer / Graphic Designer / IT Technician
 - Math :nerd_face:
 
 ## 🌱 I’m currently learning
-- C#
+- NextJS
 - ReactNative
 - Python
 
 ## :space_invader: My experience
-- 7+ Years in Web Dev
-- 2+ Years in App/Software Dev
-- 7+ Years in Graphic Design
-- 7+ Years in Video Editing
-- 7+ Years in music production
+- 9+ Years in Web Dev
+- 4+ Years in App/Software Dev
+- 10+ Years in Graphic Design
+- 10+ Years in Video Editing
+- 10+ Years in music production
 - All my life experience in IT
 
 ## :robot: Languages
@@ -27,6 +27,7 @@ Self taught Musician / Developer / Graphic Designer / IT Technician
 - Javascript (Vanilla, React and Typescript)
 - jQuery
 - Python
+- C# (.NET)
 
 <!---
 GloriousBrendon/GloriousBrendon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
