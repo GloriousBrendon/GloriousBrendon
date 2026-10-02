@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=DC2626&center=true&vCenter=true&width=620&lines=Senior+Lead+Software+Engineer;Rust+%7C+TypeScript+%7C+C%23+%7C+C%2B%2B;Reverse-engineering+HID+protocols+for+fun;Self-hosting+everything+I+can;Frontman+%2F+producer+of+Nagbreek" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=DC2626&center=true&vCenter=true&width=620&lines=Senior+Software+Engineer;Rust+%7C+TypeScript+%7C+C%23+%7C+C%2B%2B;Reverse-engineering+HID+protocols+for+fun;Self-hosting+everything+I+can;Frontman+%2F+producer+of+Nagbreek" alt="Typing SVG" /></a>
 
 </div>
 
