@@ -11,7 +11,7 @@
 
 ### `$ whoami`
 
-Self-taught engineer who started out as an IT tech and graphic designer and never stopped taking things apart. These days I lead engineering teams by day and build my own tools by night — usually because the off-the-shelf option broke, phoned home, or just annoyed me.
+Self-taught engineer who started out as an IT tech and graphic designer and never stopped taking things apart. These days I engineer by day and build my own tools by night, usually because the off-the-shelf option broke, phoned home, or just annoyed me.
 
 Linux on the desktop, Docker in the cupboard, distortion in the headphones. 🤘
 
